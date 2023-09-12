@@ -1,0 +1,12 @@
+
+# Quadtree, 330 steps, 0.185221 CPU, 0.1853 real, 7.3e+06 points.step/s, 15 var
+# 2 procs, MPI: min 0.02 (11%) avg 0.022 (12%) max 0.023 (13%)
+
+# Quadtree, 641 steps, 1.16888 CPU, 1.169 real, 8.98e+06 points.step/s, 15 var
+# 2 procs, MPI: min 0.067 (5.7%) avg 0.087 (7.4%) max 0.11 (9.2%)
+
+# Quadtree, 1281 steps, 10.7738 CPU, 10.78 real, 7.79e+06 points.step/s, 15 var
+# 2 procs, MPI: min 0.37 (3.4%) avg 0.47 (4.4%) max 0.58 (5.4%)
+
+# Quadtree, 2561 steps, 169.29 CPU, 169.7 real, 3.96e+06 points.step/s, 15 var
+# 2 procs, MPI: min 2.5 (1.5%) avg 3.9 (2.3%) max 5.4 (3.2%)

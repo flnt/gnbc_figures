@@ -1,0 +1,6 @@
+.qccSPLJfE/angle_extrapolation_vof.c:1:7: warning: line number out of range
+/home/tf/EPFL/basilisk/contactline/.qccSPLJfE//:1:7: warning: line number out of range
+<built-in>: warning: line number out of range
+/usr/include/stdc-predef.h:1:7: warning: line number out of range
+angle_extrapolation_vof.c:32:29: warning: initializer element is not a constant expression [-Wpedantic]
+angle_extrapolation_vof.c:32:69: warning: initializer element is not a constant expression [-Wpedantic]
